@@ -1,0 +1,49 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="AppTheme.Toolbar" parent="ThemeOverlay.AppCompat.ActionBar" />
+
+
+
+
+    <!--<style name="MyStyle.InputLayout" parent="Widget.Design.TextInputLayout">
+        <item name="fontPath">@string/app_font</item>
+        <item name="errorTextAppearance">@style/ErrorTextAppearance</item>
+        <item name="hintTextAppearance">@style/HintTextAppearance</item>
+    </style>
+
+    <style name="MyTheme.EditText" parent="Theme.AppCompat.Light">
+        &lt;!&ndash; Inactive underline color&ndash;&gt;
+        <item name="colorControlNormal">@color/hint_color_inactive</item>
+
+        &lt;!&ndash; Cursor and Active underline color, uses colorAccent by default if not defined&ndash;&gt;
+        <item name="colorControlActivated">@color/hint_color_active</item>
+    </style>
+
+    <style name="HintTextAppearance" parent="TextAppearance.Design.Hint">
+        &lt;!&ndash; Inactive and Active label color, pointing to a selector&ndash;&gt;
+        <item name="android:textColor">@drawable/hint_color</item>
+    </style>
+
+    <style name="ErrorTextAppearance" parent="TextAppearance.Design.Error">
+        &lt;!&ndash; Error text color&ndash;&gt;
+        <item name="android:textColor">@color/error_color</item>
+    </style>-->
+
+</resources>
